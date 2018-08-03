@@ -5,4 +5,5 @@ aaaaaaa
 我是ssh登录进来的
 bbbbbbb
 ccccccc
-ddddddd edit by slave1
+ddddddd edit by slave
+sdfffffffff1
