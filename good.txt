@@ -3,3 +3,6 @@ aaaaaaa
 我是wechat_clone第二次
 我是另一个团队修改的
 我是ssh登录进来的
+bbbbbbb
+ccccccc
+ddddddd edit by slave1
